@@ -1,5 +1,5 @@
 import React from "react";
-import Item1 from "./components/Item1";
+import Item1 from "./components/Item1"
 import './App.css'; 
 
 import "./style.css";
