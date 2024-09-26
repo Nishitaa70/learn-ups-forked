@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(to right, black, rgb(14, 14, 75));
+    background-image: linear-gradient(to right, black, rgb(31, 31, 154));
     width: 800px;
     height: 800vh;
     justify-content: center; 
@@ -19,7 +19,7 @@ body{
     transform: none;
     margin-top: 15px;
     transition: transform 0.3s ease-in-out;
-    
+
 }
 
 .text{
