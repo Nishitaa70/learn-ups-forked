@@ -1,8 +1,9 @@
-import React from "react";
+import logo from './logo.svg';
+import './App.css';
 import Item1 from "./components/Item1"
-import './App.css'; 
-
+import BackgroundComponent from './components/background';
 import "./style.css";
+
 
 function App() {
   return (
