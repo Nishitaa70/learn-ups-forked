@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Item1 from "./components/Item1"
+import Item1 from "./components/Item1";
 import BackgroundComponent from './components/background';
 import "./style.css";
 
 
 function App() {
   return (
+    <> 
     <div className = "box" >
     <Item1 text = "Resource 1"/>  
     <Item1 text = "Resource 2"/> 
@@ -17,6 +17,7 @@ function App() {
     <Item1 text = "Resource 7"/> 
     <Item1 text = "Resource 8"/> 
      </div>
+     </>
   );
 };
 
